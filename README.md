@@ -79,7 +79,7 @@ Data Collection Code:
           'Album': albums,
           'Genre': genres  # Add the genre column
       })
-      music_data.to_csv('music_data.csv', index=False)
+      music_data.to_csv('music.csv', index=False)
 
 
 Output:
