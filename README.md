@@ -53,8 +53,9 @@ Data Collection Code:
       
       songs = []
       artists = []
-      albums = []
       genres = [] 
+      albums = []
+      
       num_songs = 2000
       limit = 50  
       iterations = num_songs // limit  
